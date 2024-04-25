@@ -1,1 +1,6 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Atoms/Knowledge",
+  "attachmentFolderPath": "Atoms/Media"
+}
