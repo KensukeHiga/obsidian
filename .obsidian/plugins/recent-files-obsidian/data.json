@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "RSS",
+      "path": "Atoms/Knowledge/RSS.md"
+    },
+    {
+      "basename": "README",
+      "path": "Atoms/README.md"
+    },
+    {
+      "basename": "採用活動に本格参入したい",
+      "path": "Ideas/Incubating Ideas/採用活動に本格参入したい.md"
+    },
+    {
       "basename": "アイデアマンになる方法",
       "path": "Ideas/Active Ideas/アイデアマンになる方法.md"
     },
     {
-      "basename": "RSS",
-      "path": "Atoms/Knowledge/RSS.md"
+      "basename": "README",
+      "path": "Templates/README.md"
     },
     {
       "basename": "SNS",
@@ -31,10 +43,6 @@
     {
       "basename": "新卒採用",
       "path": "Atoms/Knowledge/新卒採用.md"
-    },
-    {
-      "basename": "README",
-      "path": "Templates/README.md"
     }
   ],
   "omittedPaths": [],

@@ -9,11 +9,11 @@
   "obsidian-image-toolkit",
   "keyboard-analyzer",
   "obsidian-linter",
-  "obsidian-living-graph",
   "obsidian-markmind",
   "obsidian-plugin-update-tracker",
   "quick-explorer",
   "recent-files-obsidian",
   "settings-search",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-living-graph"
 ]

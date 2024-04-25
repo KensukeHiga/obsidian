@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-living-graph:toggle": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": " "
+    }
+  ]
+}
