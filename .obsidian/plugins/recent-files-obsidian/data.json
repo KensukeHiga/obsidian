@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "アイデアマンになる方法",
+      "path": "Ideas/Active Ideas/アイデアマンになる方法.md"
+    },
+    {
       "basename": "RSS",
       "path": "Atoms/Knowledge/RSS.md"
     },
     {
-      "basename": "アイデアマンになる方法",
-      "path": "Ideas/Active Ideas/アイデアマンになる方法.md"
+      "basename": "SNS",
+      "path": "Atoms/Knowledge/SNS.md"
+    },
+    {
+      "basename": "LLM",
+      "path": "Atoms/Knowledge/LLM.md"
+    },
+    {
+      "basename": "Media",
+      "path": "Atoms/Knowledge/Media.md"
+    },
+    {
+      "basename": "Ideas Template",
+      "path": "Templates/Ideas Template.md"
+    },
+    {
+      "basename": "Atoms Template",
+      "path": "Templates/Atoms Template.md"
+    },
+    {
+      "basename": "新卒採用",
+      "path": "Atoms/Knowledge/新卒採用.md"
+    },
+    {
+      "basename": "README",
+      "path": "Templates/README.md"
     }
   ],
   "omittedPaths": [],
