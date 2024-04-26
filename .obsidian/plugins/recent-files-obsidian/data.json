@@ -5,6 +5,18 @@
       "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
     },
     {
+      "basename": "バックリンク",
+      "path": "Atoms/Knowledge/バックリンク.md"
+    },
+    {
+      "basename": "markdown",
+      "path": "Atoms/Knowledge/markdown.md"
+    },
+    {
+      "basename": "DRY",
+      "path": "Atoms/Knowledge/DRY.md"
+    },
+    {
       "basename": "mermaid",
       "path": "Atoms/Knowledge/mermaid.md"
     },
