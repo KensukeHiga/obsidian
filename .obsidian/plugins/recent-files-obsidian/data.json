@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "D",
-      "path": "Ideas/Incubating Ideas/D.md"
+      "basename": "Docs as Code",
+      "path": "Atoms/Knowledge/Docs as Code.md"
+    },
+    {
+      "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
+      "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
+    },
+    {
+      "basename": "GitLab",
+      "path": "Atoms/Knowledge/GitLab.md"
+    },
+    {
+      "basename": "writerside",
+      "path": "Atoms/Knowledge/writerside.md"
     },
     {
       "basename": "アイデアマンになる方法",

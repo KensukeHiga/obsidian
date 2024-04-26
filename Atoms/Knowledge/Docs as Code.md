@@ -1,0 +1,20 @@
+# ざっくり
+**Documentation as Code（Docs as Code）** とはコードを書く時と同じツールを使ってドキュメントを書くという手法、またはその考え方・哲学を指します。  
+ドキュメントをコードのように扱う、つまりWordやExcelなどではなくMarkdownのようなプレーンテキストでドキュメントを書き、Gitでバージョン管理し、レビューと自動テストを回しながら継続的にドキュメントを育てていくという、まさに現代ソフトウェア開発で培われた手法そのものに倣ったやり方です。
+
+伝統的なドキュメントライティングにおいてはドキュメントとコードは基本的に分離された存在でした。しかしDocs as Codeの考えに倣えば、ドキュメントをコードと同じように扱い、コードに近い場所に置いておくことで、コードとドキュメントを（理想的には）統一的に扱うことができるようになります。
+
+```cardlink
+url: https://qiita.com/tikamoto/items/c05a5c117c78fb7a4e47
+title: "ゼロから始めるDocs as Code - Qiita"
+description: "ドキュメント書いてますか？突然ですが、技術ドキュメント書いてますか？ドキュメントの内容が実際のコードと乖離してないですか？ExcelやWrod、あるいはWikiで書かれたドキュメントが扱いにく…"
+host: qiita.com
+favicon: https://cdn.qiita.com/assets/favicons/public/production-c620d3e403342b1022967ba5e3db1aaa.ico
+image: https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Fadvent-calendar-ogp-background-7940cd1c8db80a7ec40711d90f43539e.jpg?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk3MiZoPTM3OCZ0eHQ9JUUzJTgyJUJDJUUzJTgzJUFEJUUzJTgxJThCJUUzJTgyJTg5JUU1JUE3JThCJUUzJTgyJTgxJUUzJTgyJThCRG9jcyUyMGFzJTIwQ29kZSZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9MWI0ZmQxMmQ4OTgxYzY1ZThiNWIzN2RhZGNkM2E0OGI&mark-x=142&mark-y=100&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZoPTc2Jnc9OTcyJnR4dD0lNDB0aWthbW90byZ0eHQtY29sb3I9JTIzM0EzQzNDJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9MzViNGQyNGM1ZWVmOGI5OWVhNTYwZWJhNDdkOTlmYmY&blend-x=142&blend-y=504&blend-mode=normal&s=803d176a5190afefca53ff3edc1e1773
+```
+
+
+# 気になったこと
+
+
+# 使いどころ
