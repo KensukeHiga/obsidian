@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "metagpt",
+      "path": "Atoms/Knowledge/metagpt.md"
+    },
+    {
+      "basename": "ベクトルDB",
+      "path": "Atoms/Knowledge/ベクトルDB.md"
+    },
+    {
+      "basename": "Chroma",
+      "path": "Atoms/Knowledge/Chroma.md"
+    },
+    {
+      "basename": "Milvus",
+      "path": "Atoms/Knowledge/Milvus.md"
+    },
+    {
+      "basename": "Pinecone",
+      "path": "Atoms/Knowledge/Pinecone.md"
+    },
+    {
+      "basename": "Dify",
+      "path": "Atoms/Knowledge/Dify.md"
+    },
+    {
+      "basename": "Qdrant",
+      "path": "Atoms/Knowledge/Qdrant.md"
+    },
+    {
+      "basename": "Weaviate",
+      "path": "Atoms/Knowledge/Weaviate.md"
+    },
+    {
       "basename": "無題のファイル",
       "path": "Atoms/Knowledge/無題のファイル.md"
     },
