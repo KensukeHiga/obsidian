@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "RAGの構築",
+      "path": "Ideas/Active Ideas/RAGの構築.md"
+    },
+    {
       "basename": "metagpt",
       "path": "Atoms/Knowledge/metagpt.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "無題のファイル",
       "path": "Atoms/Knowledge/無題のファイル.md"
-    },
-    {
-      "basename": "RAGの構築",
-      "path": "Ideas/Active Ideas/RAGの構築.md"
     },
     {
       "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
