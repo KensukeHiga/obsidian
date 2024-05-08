@@ -5,6 +5,18 @@
       "path": "Ideas/Active Ideas/RAGの構築.md"
     },
     {
+      "basename": "見積り作成時にプロジェクト固有のコツが漏れないようにしたい",
+      "path": "Ideas/Incubating Ideas/見積り作成時にプロジェクト固有のコツが漏れないようにしたい.md"
+    },
+    {
+      "basename": "google スプレッドシート",
+      "path": "Atoms/Knowledge/google スプレッドシート.md"
+    },
+    {
+      "basename": "RAG",
+      "path": "Atoms/Knowledge/RAG.md"
+    },
+    {
       "basename": "metagpt",
       "path": "Atoms/Knowledge/metagpt.md"
     },
