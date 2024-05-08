@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "RAGの構築",
-      "path": "Ideas/Active Ideas/RAGの構築.md"
-    },
-    {
       "basename": "見積り作成時にプロジェクト固有のコツが漏れないようにしたい",
       "path": "Ideas/Incubating Ideas/見積り作成時にプロジェクト固有のコツが漏れないようにしたい.md"
+    },
+    {
+      "basename": "RAGの構築",
+      "path": "Ideas/Active Ideas/RAGの構築.md"
     },
     {
       "basename": "google スプレッドシート",
@@ -47,10 +47,6 @@
     {
       "basename": "Weaviate",
       "path": "Atoms/Knowledge/Weaviate.md"
-    },
-    {
-      "basename": "無題のファイル",
-      "path": "Atoms/Knowledge/無題のファイル.md"
     },
     {
       "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
