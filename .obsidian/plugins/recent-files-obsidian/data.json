@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "CIERTOのAutomationのwebhookを、受信したいメッセージをもとに自動作成したい",
+      "path": "Atoms/Knowledge/CIERTOのAutomationのwebhookを、受信したいメッセージをもとに自動作成したい.md"
+    },
+    {
+      "basename": "RAGの構築",
+      "path": "Ideas/Active Ideas/RAGの構築.md"
+    },
+    {
       "basename": "忘却の彼方へ消え去る有益なドキュメントの救出方法",
       "path": "Ideas/Incubating Ideas/忘却の彼方へ消え去る有益なドキュメントの救出方法.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "見積り作成時にプロジェクト固有のコツが漏れないようにしたい",
       "path": "Ideas/Incubating Ideas/見積り作成時にプロジェクト固有のコツが漏れないようにしたい.md"
-    },
-    {
-      "basename": "RAGの構築",
-      "path": "Ideas/Active Ideas/RAGの構築.md"
     },
     {
       "basename": "google スプレッドシート",
