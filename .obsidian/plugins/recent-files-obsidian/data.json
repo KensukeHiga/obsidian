@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "部署の効率UP",
+      "path": "Ideas/Active Ideas/部署の効率UP.md"
+    },
+    {
+      "basename": "開発フェーズの自動化",
+      "path": "Ideas/Active Ideas/開発フェーズの自動化.md"
+    },
+    {
+      "basename": "PJの経験をナレッジとして活かす",
+      "path": "Ideas/Active Ideas/PJの経験をナレッジとして活かす.md"
+    },
+    {
       "basename": "CIERTOのAutomationのwebhookを、受信したいメッセージをもとに自動作成したい",
       "path": "Atoms/Knowledge/CIERTOのAutomationのwebhookを、受信したいメッセージをもとに自動作成したい.md"
     },
