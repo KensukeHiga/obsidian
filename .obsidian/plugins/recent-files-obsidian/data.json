@@ -5,6 +5,10 @@
       "path": "Ideas/DB.md"
     },
     {
+      "basename": "README",
+      "path": "Ideas/README.md"
+    },
+    {
       "basename": "検討、設計へ記入してない分岐がないか不安",
       "path": "Ideas/Incubating Ideas/検討、設計へ記入してない分岐がないか不安.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
       "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
-    },
-    {
-      "basename": "README",
-      "path": "Ideas/README.md"
     },
     {
       "basename": "Atoms Template",

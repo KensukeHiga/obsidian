@@ -1,5 +1,5 @@
 ``` dataview
-    TABLE STATUS, MVP_TIME, tags
+    TABLE STATUS, MVP_TIME, tags, file.mday AS "updated_at"
     FROM "Ideas"
     WHERE  STATUS
     SORT STATUS DESC, MVP_TIME
