@@ -1,7 +1,8 @@
 ---
 STATUS: 待機中
 MVP_TIME: 7
-tags: LLM
+tags:
+  - Docs
 ---
 # 組み合わせ
 - [[Docs as Code]]

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PLUSの案件でつなげるCIERTOの構築が対辺",
+      "path": "Ideas/Incubating Ideas/PLUSの案件でつなげるCIERTOの構築が対辺.md"
+    },
+    {
       "basename": "DB",
       "path": "Ideas/DB.md"
     },
@@ -9,12 +13,12 @@
       "path": "Ideas/Incubating Ideas/ユーザー観点の改善点.md"
     },
     {
-      "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
-      "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
-    },
-    {
       "basename": "コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる",
       "path": "Ideas/Incubating Ideas/コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる.md"
+    },
+    {
+      "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
+      "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
     },
     {
       "basename": "Ideas Template",
@@ -43,10 +47,6 @@
     {
       "basename": "テストもコードレビューも人なのでチェック漏れてしまうことがある",
       "path": "Ideas/Incubating Ideas/テストもコードレビューも人なのでチェック漏れてしまうことがある.md"
-    },
-    {
-      "basename": "PLUSの案件でつなげるCIERTOの構築が対辺",
-      "path": "Ideas/Incubating Ideas/PLUSの案件でつなげるCIERTOの構築が対辺.md"
     },
     {
       "basename": "細かいことまでリーダーに確認したら時間がいるかあっても足りないけど、報告、相談する粒度が難しい",
