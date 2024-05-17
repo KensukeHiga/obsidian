@@ -5,6 +5,22 @@
       "path": "Ideas/DB.md"
     },
     {
+      "basename": "ユーザー観点の改善点",
+      "path": "Ideas/Incubating Ideas/ユーザー観点の改善点.md"
+    },
+    {
+      "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
+      "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
+    },
+    {
+      "basename": "コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる",
+      "path": "Ideas/Incubating Ideas/コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる.md"
+    },
+    {
+      "basename": "Ideas Template",
+      "path": "Templates/Ideas Template.md"
+    },
+    {
       "basename": "README",
       "path": "Ideas/README.md"
     },
@@ -41,10 +57,6 @@
       "path": "Ideas/Incubating Ideas/単体テスト書いても、コーディングしてるときの記憶をもとに、テスト実施を簡略化してしまうことがある.md"
     },
     {
-      "basename": "コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる",
-      "path": "Ideas/Incubating Ideas/コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる.md"
-    },
-    {
       "basename": "テスト作成が大変",
       "path": "Ideas/Incubating Ideas/テスト作成が大変.md"
     },
@@ -55,14 +67,6 @@
     {
       "basename": "google chatは未読に気づかないことがよくある。",
       "path": "Ideas/Incubating Ideas/google chatは未読に気づかないことがよくある。.md"
-    },
-    {
-      "basename": "ユーザー観点の改善点",
-      "path": "Ideas/Incubating Ideas/ユーザー観点の改善点.md"
-    },
-    {
-      "basename": "Ideas Template",
-      "path": "Templates/Ideas Template.md"
     },
     {
       "basename": "README",
@@ -99,10 +103,6 @@
     {
       "basename": "忘却の彼方へ消え去る有益なドキュメントの救出方法",
       "path": "Ideas/Incubating Ideas/忘却の彼方へ消え去る有益なドキュメントの救出方法.md"
-    },
-    {
-      "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
-      "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
     },
     {
       "basename": "Atoms Template",
