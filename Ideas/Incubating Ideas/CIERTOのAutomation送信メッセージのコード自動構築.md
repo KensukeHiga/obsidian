@@ -1,3 +1,9 @@
+---
+STATUS: 実行中
+MVP_TIME: 7
+tags:
+  - LLM
+---
 # 組み合わせ
 
 

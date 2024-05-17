@@ -1,6 +1,8 @@
 ``` dataview
-    table ステータス, 目安-day-, tags
-    from "Ideas"
+    TABLE STATUS, MVP_TIME, tags
+    FROM "Ideas"
+    WHERE  STATUS
+    SORT STATUS DESC, MVP_TIME
 ```
 
 ---

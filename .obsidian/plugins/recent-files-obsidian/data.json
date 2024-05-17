@@ -5,6 +5,102 @@
       "path": "Ideas/DB.md"
     },
     {
+      "basename": "検討、設計へ記入してない分岐がないか不安",
+      "path": "Ideas/Incubating Ideas/検討、設計へ記入してない分岐がないか不安.md"
+    },
+    {
+      "basename": "アイデアマンになる方法",
+      "path": "Ideas/Idea Archive/アイデアマンになる方法.md"
+    },
+    {
+      "basename": "デグレの不安",
+      "path": "Ideas/Incubating Ideas/デグレの不安.md"
+    },
+    {
+      "basename": "ナレッジ共有のためにDocument作っても更新が滞ってしまう",
+      "path": "Ideas/Incubating Ideas/ナレッジ共有のためにDocument作っても更新が滞ってしまう.md"
+    },
+    {
+      "basename": "テストもコードレビューも人なのでチェック漏れてしまうことがある",
+      "path": "Ideas/Incubating Ideas/テストもコードレビューも人なのでチェック漏れてしまうことがある.md"
+    },
+    {
+      "basename": "PLUSの案件でつなげるCIERTOの構築が対辺",
+      "path": "Ideas/Incubating Ideas/PLUSの案件でつなげるCIERTOの構築が対辺.md"
+    },
+    {
+      "basename": "細かいことまでリーダーに確認したら時間がいるかあっても足りないけど、報告、相談する粒度が難しい",
+      "path": "Ideas/Incubating Ideas/細かいことまでリーダーに確認したら時間がいるかあっても足りないけど、報告、相談する粒度が難しい.md"
+    },
+    {
+      "basename": "単体テスト書いても、コーディングしてるときの記憶をもとに、テスト実施を簡略化してしまうことがある",
+      "path": "Ideas/Incubating Ideas/単体テスト書いても、コーディングしてるときの記憶をもとに、テスト実施を簡略化してしまうことがある.md"
+    },
+    {
+      "basename": "コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる",
+      "path": "Ideas/Incubating Ideas/コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる.md"
+    },
+    {
+      "basename": "テスト作成が大変",
+      "path": "Ideas/Incubating Ideas/テスト作成が大変.md"
+    },
+    {
+      "basename": "エンジニア未経験は覚えることが多い",
+      "path": "Ideas/Incubating Ideas/エンジニア未経験は覚えることが多い.md"
+    },
+    {
+      "basename": "google chatは未読に気づかないことがよくある。",
+      "path": "Ideas/Incubating Ideas/google chatは未読に気づかないことがよくある。.md"
+    },
+    {
+      "basename": "ユーザー観点の改善点",
+      "path": "Ideas/Incubating Ideas/ユーザー観点の改善点.md"
+    },
+    {
+      "basename": "Ideas Template",
+      "path": "Templates/Ideas Template.md"
+    },
+    {
+      "basename": "README",
+      "path": "Templates/README.md"
+    },
+    {
+      "basename": "開発手法「テスト駆動開発」の実践",
+      "path": "Ideas/Incubating Ideas/開発手法「テスト駆動開発」の実践.md"
+    },
+    {
+      "basename": "テストコードの導入",
+      "path": "Ideas/Incubating Ideas/テストコードの導入.md"
+    },
+    {
+      "basename": "開発フェーズの自動化",
+      "path": "Ideas/Active Ideas/開発フェーズの自動化.md"
+    },
+    {
+      "basename": "PJの経験をナレッジとして活かす",
+      "path": "Ideas/Active Ideas/PJの経験をナレッジとして活かす.md"
+    },
+    {
+      "basename": "CIERTOのAutomation送信メッセージのコード自動構築",
+      "path": "Ideas/Incubating Ideas/CIERTOのAutomation送信メッセージのコード自動構築.md"
+    },
+    {
+      "basename": "見積り作成時にプロジェクト固有のコツが漏れないようにしたい",
+      "path": "Ideas/Incubating Ideas/見積り作成時にプロジェクト固有のコツが漏れないようにしたい.md"
+    },
+    {
+      "basename": "採用活動に本格参入したい",
+      "path": "Ideas/Incubating Ideas/採用活動に本格参入したい.md"
+    },
+    {
+      "basename": "忘却の彼方へ消え去る有益なドキュメントの救出方法",
+      "path": "Ideas/Incubating Ideas/忘却の彼方へ消え去る有益なドキュメントの救出方法.md"
+    },
+    {
+      "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
+      "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
+    },
+    {
       "basename": "README",
       "path": "Ideas/README.md"
     },
@@ -13,40 +109,16 @@
       "path": "Templates/Atoms Template.md"
     },
     {
-      "basename": "Ideas Template",
-      "path": "Templates/Ideas Template.md"
-    },
-    {
       "basename": "RAGの構築",
       "path": "Ideas/Active Ideas/RAGの構築.md"
-    },
-    {
-      "basename": "無題のファイル",
-      "path": "Ideas/無題のファイル.md"
-    },
-    {
-      "basename": "README",
-      "path": "Templates/README.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "開発フェーズの自動化",
-      "path": "Ideas/Active Ideas/開発フェーズの自動化.md"
-    },
-    {
       "basename": "CIERTOのAutomationのwebhookを、受信したいメッセージをもとに自動作成したい",
       "path": "Atoms/Knowledge/CIERTOのAutomationのwebhookを、受信したいメッセージをもとに自動作成したい.md"
-    },
-    {
-      "basename": "忘却の彼方へ消え去る有益なドキュメントの救出方法",
-      "path": "Ideas/Incubating Ideas/忘却の彼方へ消え去る有益なドキュメントの救出方法.md"
-    },
-    {
-      "basename": "CIERTOのAutomation送信メッセージのコード自動構築",
-      "path": "Ideas/Incubating Ideas/CIERTOのAutomation送信メッセージのコード自動構築.md"
     },
     {
       "basename": "API",
@@ -59,10 +131,6 @@
     {
       "basename": "CIERTO Automation",
       "path": "Atoms/Knowledge/CIERTO Automation.md"
-    },
-    {
-      "basename": "見積り作成時にプロジェクト固有のコツが漏れないようにしたい",
-      "path": "Ideas/Incubating Ideas/見積り作成時にプロジェクト固有のコツが漏れないようにしたい.md"
     },
     {
       "basename": "google スプレッドシート",
@@ -99,82 +167,6 @@
     {
       "basename": "Qdrant",
       "path": "Atoms/Knowledge/Qdrant.md"
-    },
-    {
-      "basename": "Weaviate",
-      "path": "Atoms/Knowledge/Weaviate.md"
-    },
-    {
-      "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
-      "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
-    },
-    {
-      "basename": "アイデアマンになる方法",
-      "path": "Ideas/Idea Archive/アイデアマンになる方法.md"
-    },
-    {
-      "basename": "バックリンク",
-      "path": "Atoms/Knowledge/バックリンク.md"
-    },
-    {
-      "basename": "markdown",
-      "path": "Atoms/Knowledge/markdown.md"
-    },
-    {
-      "basename": "DRY",
-      "path": "Atoms/Knowledge/DRY.md"
-    },
-    {
-      "basename": "mermaid",
-      "path": "Atoms/Knowledge/mermaid.md"
-    },
-    {
-      "basename": "Docs as Code",
-      "path": "Atoms/Knowledge/Docs as Code.md"
-    },
-    {
-      "basename": "GitLab",
-      "path": "Atoms/Knowledge/GitLab.md"
-    },
-    {
-      "basename": "writerside",
-      "path": "Atoms/Knowledge/writerside.md"
-    },
-    {
-      "basename": "Idea Archive",
-      "path": "Atoms/Knowledge/Idea Archive.md"
-    },
-    {
-      "basename": "Incubating Ideas",
-      "path": "Atoms/Knowledge/Incubating Ideas.md"
-    },
-    {
-      "basename": "RSS",
-      "path": "Atoms/Knowledge/RSS.md"
-    },
-    {
-      "basename": "README",
-      "path": "Atoms/README.md"
-    },
-    {
-      "basename": "採用活動に本格参入したい",
-      "path": "Ideas/Incubating Ideas/採用活動に本格参入したい.md"
-    },
-    {
-      "basename": "SNS",
-      "path": "Atoms/Knowledge/SNS.md"
-    },
-    {
-      "basename": "LLM",
-      "path": "Atoms/Knowledge/LLM.md"
-    },
-    {
-      "basename": "Media",
-      "path": "Atoms/Knowledge/Media.md"
-    },
-    {
-      "basename": "新卒採用",
-      "path": "Atoms/Knowledge/新卒採用.md"
     }
   ],
   "omittedPaths": [],

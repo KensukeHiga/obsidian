@@ -1,7 +1,7 @@
 ---
 STATUS: 待機中
 MVP_TIME: 7
-tags: []
+tags:
 ---
 # 組み合わせ
 
