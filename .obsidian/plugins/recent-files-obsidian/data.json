@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "部署の効率UP",
-      "path": "Ideas/Active Ideas/部署の効率UP.md"
+      "basename": "DB",
+      "path": "Atoms/Knowledge/DB.md"
+    },
+    {
+      "basename": "無題のファイル",
+      "path": "Ideas/無題のファイル.md"
     },
     {
       "basename": "開発フェーズの自動化",
       "path": "Ideas/Active Ideas/開発フェーズの自動化.md"
-    },
-    {
-      "basename": "PJの経験をナレッジとして活かす",
-      "path": "Ideas/Active Ideas/PJの経験をナレッジとして活かす.md"
     },
     {
       "basename": "CIERTOのAutomationのwebhookを、受信したいメッセージをもとに自動作成したい",
@@ -90,7 +90,7 @@
     },
     {
       "basename": "アイデアマンになる方法",
-      "path": "Ideas/Active Ideas/アイデアマンになる方法.md"
+      "path": "Ideas/Idea Archive/アイデアマンになる方法.md"
     },
     {
       "basename": "バックリンク",
