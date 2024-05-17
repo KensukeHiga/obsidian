@@ -2,11 +2,35 @@
   "recentFiles": [
     {
       "basename": "DB",
-      "path": "Atoms/Knowledge/DB.md"
+      "path": "Ideas/DB.md"
+    },
+    {
+      "basename": "README",
+      "path": "Ideas/README.md"
+    },
+    {
+      "basename": "Atoms Template",
+      "path": "Templates/Atoms Template.md"
+    },
+    {
+      "basename": "Ideas Template",
+      "path": "Templates/Ideas Template.md"
+    },
+    {
+      "basename": "RAGの構築",
+      "path": "Ideas/Active Ideas/RAGの構築.md"
     },
     {
       "basename": "無題のファイル",
       "path": "Ideas/無題のファイル.md"
+    },
+    {
+      "basename": "README",
+      "path": "Templates/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "開発フェーズの自動化",
@@ -15,10 +39,6 @@
     {
       "basename": "CIERTOのAutomationのwebhookを、受信したいメッセージをもとに自動作成したい",
       "path": "Atoms/Knowledge/CIERTOのAutomationのwebhookを、受信したいメッセージをもとに自動作成したい.md"
-    },
-    {
-      "basename": "RAGの構築",
-      "path": "Ideas/Active Ideas/RAGの構築.md"
     },
     {
       "basename": "忘却の彼方へ消え去る有益なドキュメントの救出方法",
@@ -141,10 +161,6 @@
       "path": "Ideas/Incubating Ideas/採用活動に本格参入したい.md"
     },
     {
-      "basename": "README",
-      "path": "Templates/README.md"
-    },
-    {
       "basename": "SNS",
       "path": "Atoms/Knowledge/SNS.md"
     },
@@ -155,14 +171,6 @@
     {
       "basename": "Media",
       "path": "Atoms/Knowledge/Media.md"
-    },
-    {
-      "basename": "Ideas Template",
-      "path": "Templates/Ideas Template.md"
-    },
-    {
-      "basename": "Atoms Template",
-      "path": "Templates/Atoms Template.md"
     },
     {
       "basename": "新卒採用",
