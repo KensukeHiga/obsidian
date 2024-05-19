@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる",
+      "path": "Ideas/Incubating Ideas/コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる.md"
+    },
+    {
       "basename": "DB",
       "path": "Ideas/DB.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "ユーザー観点の改善点",
       "path": "Ideas/Incubating Ideas/ユーザー観点の改善点.md"
-    },
-    {
-      "basename": "コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる",
-      "path": "Ideas/Incubating Ideas/コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる.md"
     },
     {
       "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
