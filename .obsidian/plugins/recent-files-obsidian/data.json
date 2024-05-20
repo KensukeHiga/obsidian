@@ -5,12 +5,20 @@
       "path": "Ideas/Incubating Ideas/meta値の入力チェックを柔軟に設定したい.md"
     },
     {
-      "basename": "コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる",
-      "path": "Ideas/Incubating Ideas/コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる.md"
-    },
-    {
       "basename": "DB",
       "path": "Ideas/DB.md"
+    },
+    {
+      "basename": "n8n",
+      "path": "Atoms/Knowledge/n8n.md"
+    },
+    {
+      "basename": "Drools",
+      "path": "Atoms/Knowledge/Drools.md"
+    },
+    {
+      "basename": "コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる",
+      "path": "Ideas/Incubating Ideas/コードレビュー,設計観点をもっと目に付く場所にしてくれたらコーディングのときに気をつけることができる.md"
     },
     {
       "basename": "アイデアマンになる方法",
