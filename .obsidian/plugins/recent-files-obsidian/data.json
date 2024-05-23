@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "meta値の入力チェックを柔軟に設定したい",
-      "path": "Ideas/Incubating Ideas/meta値の入力チェックを柔軟に設定したい.md"
+      "basename": "ユーザー観点の改善点",
+      "path": "Ideas/Incubating Ideas/ユーザー観点の改善点.md"
     },
     {
       "basename": "DB",
       "path": "Ideas/DB.md"
+    },
+    {
+      "basename": "meta値の入力チェックを柔軟に設定したい",
+      "path": "Ideas/Incubating Ideas/meta値の入力チェックを柔軟に設定したい.md"
     },
     {
       "basename": "n8n",
@@ -31,10 +35,6 @@
     {
       "basename": "PLUSの案件でつなげるCIERTOの構築が対辺",
       "path": "Ideas/Incubating Ideas/PLUSの案件でつなげるCIERTOの構築が対辺.md"
-    },
-    {
-      "basename": "ユーザー観点の改善点",
-      "path": "Ideas/Incubating Ideas/ユーザー観点の改善点.md"
     },
     {
       "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
