@@ -5,6 +5,10 @@
       "path": "Ideas/DB.md"
     },
     {
+      "basename": "メモリエラーなどでサービスが停止したときに自動で再起動したい",
+      "path": "Ideas/Active Ideas/メモリエラーなどでサービスが停止したときに自動で再起動したい.md"
+    },
+    {
       "basename": "ユーザー観点の改善点",
       "path": "Ideas/Incubating Ideas/ユーザー観点の改善点.md"
     },
