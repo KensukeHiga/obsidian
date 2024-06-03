@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "writerside",
+      "path": "Atoms/Knowledge/writerside.md"
+    },
+    {
+      "basename": "Docs as Code",
+      "path": "Atoms/Knowledge/Docs as Code.md"
+    },
+    {
+      "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
+      "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
+    },
+    {
       "basename": "DB",
       "path": "Ideas/DB.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "PLUSの案件でつなげるCIERTOの構築が対辺",
       "path": "Ideas/Incubating Ideas/PLUSの案件でつなげるCIERTOの構築が対辺.md"
-    },
-    {
-      "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
-      "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
     },
     {
       "basename": "Ideas Template",
