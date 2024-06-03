@@ -1,6 +1,7 @@
 # ざっくり
 ### [[Docs as Code]] パイプライン
-単一のオーサリング環境を使用するため、多様なツールを用意する必要はありません。組み込みの Git UI、統合ビルドツール、自動テスト、既製のカスタマイズ可能なレイアウトを使用することで、最も重視すべきドキュメントの内容に専念できます。
+
+> 単一のオーサリング環境を使用するため、多様なツールを用意する必要はありません。組み込みの Git UI、統合ビルドツール、自動テスト、既製のカスタマイズ可能なレイアウトを使用することで、最も重視すべきドキュメントの内容に専念できます。
 
 ```cardlink
 url: https://www.jetbrains.com/ja-jp/writerside/
@@ -10,8 +11,6 @@ host: www.jetbrains.com
 favicon: https://www.jetbrains.com/favicon.ico?r=1234
 image: https://resources.jetbrains.com/storage/products/writerside/img/meta/preview.png
 ```
-
-
 
 # メモ
 ## 用語
