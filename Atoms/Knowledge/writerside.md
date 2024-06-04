@@ -18,7 +18,7 @@ image: https://resources.jetbrains.com/storage/products/writerside/img/meta/prev
 全ての要素を含み管理する。コードでいうところのProjectと大体一緒。
 ### Instance
 1つのドキュメント。このInstance単位で目次が生成され、ドキュメントのタイトルにはInstance名が入る。
-Googleドキュメントの１ファイルがInstanceにあたる。
+１つのInstanceが１つの製品ドキュメント。
 別Instanceであっても、同一プロジェクトであれば任意のコンテンツをインスタンス間で再利用できる。
 ### Table of contents（目次）
 目次 (TOC) はインスタンスの構造を表します。これは、タグを使用してツリー ファイルで定義されます `<toc-element>`

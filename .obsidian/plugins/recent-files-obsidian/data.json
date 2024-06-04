@@ -5,20 +5,20 @@
       "path": "Atoms/Knowledge/writerside.md"
     },
     {
-      "basename": "Docs as Code",
-      "path": "Atoms/Knowledge/Docs as Code.md"
-    },
-    {
-      "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
-      "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
-    },
-    {
       "basename": "DB",
       "path": "Ideas/DB.md"
     },
     {
       "basename": "メモリエラーなどでサービスが停止したときに自動で再起動したい",
       "path": "Ideas/Active Ideas/メモリエラーなどでサービスが停止したときに自動で再起動したい.md"
+    },
+    {
+      "basename": "Docs as Code",
+      "path": "Atoms/Knowledge/Docs as Code.md"
+    },
+    {
+      "basename": "Docs as CodeでDRYでコードライクなドキュメント管理をする",
+      "path": "Ideas/Incubating Ideas/Docs as CodeでDRYでコードライクなドキュメント管理をする.md"
     },
     {
       "basename": "ユーザー観点の改善点",
