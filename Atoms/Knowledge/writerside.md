@@ -25,3 +25,9 @@ image: https://resources.jetbrains.com/storage/products/writerside/img/meta/prev
 ### Topics（要素）の保存場所
 Instance下に作成したマークダウンファイルや画像などはInstanceに紐づくのではなく、添付画像のようにProject共通資産としてtopics配下に保存される。
 ![[スクリーンショット 2024-06-03 171518.png]]
+
+# メリット
+- Gitでバージョン管理、レビューができる。
+- Instance単位でMDファイルがまとまるので一元管理できる。
+- リンクが相互に把握でき、リンク先の情報を変数として表示可能。
+- 
