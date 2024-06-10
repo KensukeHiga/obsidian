@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "DB",
+      "path": "Ideas/DB.md"
+    },
+    {
       "basename": "writerside",
       "path": "Atoms/Knowledge/writerside.md"
     },
     {
       "basename": "Docs as Code",
       "path": "Atoms/Knowledge/Docs as Code.md"
-    },
-    {
-      "basename": "DB",
-      "path": "Ideas/DB.md"
     },
     {
       "basename": "メモリエラーなどでサービスが停止したときに自動で再起動したい",
